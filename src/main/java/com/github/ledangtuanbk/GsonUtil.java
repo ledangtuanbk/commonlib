@@ -1,4 +1,4 @@
-package site.freeappvn.test;
+package com.github.ledangtuanbk;
 
 public class GsonUtil {
     public static int plus(int a, int b){
