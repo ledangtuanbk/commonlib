@@ -1,6 +1,6 @@
 package site.freeappvn.test;
 
-public class MyLib {
+public class GsonUtil {
     public static int plus(int a, int b){
         return a+b;
     }
