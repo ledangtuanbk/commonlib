@@ -3,7 +3,7 @@
 
     <groupId>com.isofh</groupId>
     <artifactId>mvnnew</artifactId>
-    <version>1.9-SNAPSHOT</version>
+    <version>1.9</version>
     <packaging>jar</packaging>
     <name>common library</name>
     <description>common project for micro-service</description>
@@ -25,7 +25,7 @@
         <connection>scm:git:git://github.com/ledangtuanbk/gsonlib.git</connection>
         <developerConnection>scm:git:git@github.com:ledangtuanbk/gsonlib.git</developerConnection>
         <url>https://github.com/ledangtuanbk/gsonlib</url>
-        <tag>HEAD</tag>
+        <tag>mvnnew-1.9</tag>
     </scm>
 
     <properties>
