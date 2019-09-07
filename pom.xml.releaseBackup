@@ -3,7 +3,7 @@
 
     <groupId>com.isofh</groupId>
     <artifactId>mvnnew</artifactId>
-    <version>1.11-SNAPSHOT</version>
+    <version>1.10-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>common library</name>
     <description>common project for micro-service</description>
@@ -123,12 +123,12 @@
         <repository>
             <id>nexus-releases</id>
             <name>maven-releases</name>
-            <url>http://10.0.0.99:8081/repository/maven-releases/</url>
+            <url>http://10.0.0.69:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>nexus-snapshots</id>
             <name>maven-snapshots</name>
-            <url>http://10.0.0.99:8081/repository/maven-snapshots/</url>
+            <url>http://10.0.0.69:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
