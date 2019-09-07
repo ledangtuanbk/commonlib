@@ -3,7 +3,7 @@
 
     <groupId>com.isofh</groupId>
     <artifactId>mvn</artifactId>
-    <version>1.1.1</version>
+    <version>1.1.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>common library</name>
     <description>common project for micro-service</description>
