@@ -3,7 +3,7 @@
 
     <groupId>com.isofh</groupId>
     <artifactId>mvn</artifactId>
-    <version>1.1.1-SNAPSHOT</version>
+    <version>1.1.1</version>
     <packaging>jar</packaging>
     <name>common library</name>
     <description>common project for micro-service</description>
@@ -25,7 +25,7 @@
         <connection>scm:git:https://github.com/ledangtuanbk/gsonlib.git</connection>
         <developerConnection>scm:git:https://github.com/ledangtuanbk/gsonlib.git</developerConnection>
         <url>https://github.com/ledangtuanbk/gsonlib.git</url>
-        <tag>mvn-1.0.70</tag>
+        <tag>mvn-1.1.1</tag>
     </scm>
 
     <properties>
