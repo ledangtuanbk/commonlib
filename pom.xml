@@ -25,7 +25,7 @@
         <connection>scm:git:git://github.com/ledangtuanbk/gsonlib.git</connection>
         <developerConnection>scm:git:git@github.com:ledangtuanbk/gsonlib.git</developerConnection>
         <url>https://github.com/ledangtuanbk/gsonlib</url>
-        <tag>v1.0.0</tag>
+        <tag>test-1.0.9</tag>
     </scm>
 
     <properties>
