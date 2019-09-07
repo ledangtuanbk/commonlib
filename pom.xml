@@ -3,7 +3,7 @@
 
     <groupId>com.isofh</groupId>
     <artifactId>test</artifactId>
-    <version>1.0.9-SNAPSHOT</version>
+    <version>1.0.9</version>
     <packaging>jar</packaging>
     <name>common library</name>
     <description>common project for micro-service</description>
