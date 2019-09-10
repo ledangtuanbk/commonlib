@@ -1,3 +1,5 @@
 lib.iml
 .idea/
 target/
+release.properties
+common.iml
