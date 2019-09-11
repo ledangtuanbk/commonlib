@@ -75,12 +75,21 @@ public class DateTimeUtils {
     }
 
     /**
-     * get current time in string
+     * get current time in string "yyyy.MM.dd.HH.mm.ss"
      *
      * @return
      */
     public static String getCurrentTime() {
         return new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());
+    }
+
+    /**
+     * get current time in string
+     *
+     * @return
+     */
+    public static String getCurrentTime(String format) {
+        return new SimpleDateFormat(format).format(new Date());
     }
 
 
