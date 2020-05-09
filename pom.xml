@@ -22,9 +22,9 @@
 
 
     <scm>
-        <connection>scm:git:git://github.com/ledangtuanbk/commonlib.git</connection>
-        <developerConnection>scm:git:git@github.com:ledangtuanbk/commonlib.git</developerConnection>
-        <url>https://github.com/ledangtuanbk/commonlib</url>
+        <connection>scm:git:git@bitbucket.org:isorasoft/common_isofh.git</connection>
+        <developerConnection>scm:git:git@bitbucket.org:isorasoft/common_isofh.git</developerConnection>
+        <url>https://bitbucket.org:isorasoft/common_isofh/url>
         <tag>HEAD</tag>
     </scm>
 
