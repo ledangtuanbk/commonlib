@@ -3,7 +3,7 @@
 
     <groupId>com.ldt</groupId>
     <artifactId>common</artifactId>
-    <version>1.1.17-SNAPSHOT</version>
+    <version>1.1.17</version>
     <packaging>jar</packaging>
     <name>common library</name>
     <description>common project for micro-service</description>
@@ -25,7 +25,7 @@
         <connection>scm:git:git@bitbucket.org:isorasoft/common_isofh.git</connection>
         <developerConnection>scm:git:git@bitbucket.org:isorasoft/common_isofh.git</developerConnection>
         <url>https://bitbucket.org:isorasoft/common_isofh</url>
-        <tag>HEAD</tag>
+        <tag>common-1.1.17</tag>
     </scm>
 
     <properties>
